@@ -99,7 +99,8 @@
       ]
     },
     "overrides": {
-      "@exodus/bytes": "1.14.0"
+      "@exodus/bytes": "1.14.0",
+      "ws": "8.20.1"
     }
   }
 }
