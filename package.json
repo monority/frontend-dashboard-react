@@ -31,7 +31,7 @@
   "dependencies": {
     "@tanstack/react-query": "^5.100.5",
     "@tanstack/react-virtual": "^3.13.24",
-    "axios": "^1.16.0",
+    "axios": "^1.18.0",
     "react": "^19.2.5",
     "react-dom": "^19.2.5",
     "react-router-dom": "^7.17.0",
@@ -100,7 +100,8 @@
     },
     "overrides": {
       "@exodus/bytes": "1.14.0",
-      "ws": "8.20.1"
+      "ws": "8.21.0",
+      "form-data": "^4.0.6"
     }
   }
 }
